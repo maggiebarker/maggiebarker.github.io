@@ -25,11 +25,12 @@ div{
 	width: 24.1%;
 	height: 320px;
 	padding-right: 60px;
+	text-align: center;
 }
 
 #center{
 	width:30%;
-	height: 260px;
+	height: 280px;
 	border: 3px solid black;
 	padding: 20px;
 
@@ -50,9 +51,10 @@ div{
 h2{
 	font-size: 30px;
 	color: black;
+	text-align: center;
 }
 img{
-	padding-left: 20px;
+	padding-left: 25px;
 }
 
 #footer{
